@@ -3,10 +3,9 @@
 - 🌱 I’m currently learning Android development using Jetpack compose in Kotlin 
 - 📫 Gmail: mdnasif03@gmail.com 
 - 😄 Pronouns: he/him
-<br>
 # Location App
 This Android application demonstrates how to request location permissions, get the user's current location, and display the location as an address. 
-The app uses the Fused Location Provider API and the Geocoder API to retrieve and translate the location data.<br>
+The app uses the Fused Location Provider API and the Geocoder API to retrieve and translate the location data.
 # Features:
 - Request location permissions from the user.
 - Get the user's current location using the Fused Location Provider API.
